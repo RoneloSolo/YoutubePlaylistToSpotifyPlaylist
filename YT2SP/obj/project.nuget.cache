@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "DO4drTvFdxrXwH71y3R4TTAA2+7NMxYnCrWQSkA1JS8U697dYkxKxPc7wLoh3WHFpr7XUXfIl6twKZ46O6oo6Q==",
+  "success": true,
+  "projectFilePath": "/media/ron/StorageFiles/Projects/YT2SP/YT2SP.csproj",
+  "expectedPackageFiles": [
+    "/home/ron/.nuget/packages/embedio/3.5.2/embedio.3.5.2.nupkg.sha512",
+    "/home/ron/.nuget/packages/google.apis/1.60.0/google.apis.1.60.0.nupkg.sha512",
+    "/home/ron/.nuget/packages/google.apis.auth/1.60.0/google.apis.auth.1.60.0.nupkg.sha512",
+    "/home/ron/.nuget/packages/google.apis.core/1.60.0/google.apis.core.1.60.0.nupkg.sha512",
+    "/home/ron/.nuget/packages/google.apis.youtube.v3/1.60.0.2945/google.apis.youtube.v3.1.60.0.2945.nupkg.sha512",
+    "/home/ron/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/home/ron/.nuget/packages/spotifyapi.web/7.0.0/spotifyapi.web.7.0.0.nupkg.sha512",
+    "/home/ron/.nuget/packages/spotifyapi.web.auth/7.0.0/spotifyapi.web.auth.7.0.0.nupkg.sha512",
+    "/home/ron/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/ron/.nuget/packages/unosquare.swan.lite/3.1.0/unosquare.swan.lite.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

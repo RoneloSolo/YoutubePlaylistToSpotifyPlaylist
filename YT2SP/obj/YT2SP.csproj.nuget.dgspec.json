@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/ron/StorageFiles/Projects/YT2SP/YT2SP.csproj": {}
+  },
+  "projects": {
+    "/media/ron/StorageFiles/Projects/YT2SP/YT2SP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ron/StorageFiles/Projects/YT2SP/YT2SP.csproj",
+        "projectName": "YT2SP",
+        "projectPath": "/media/ron/StorageFiles/Projects/YT2SP/YT2SP.csproj",
+        "packagesPath": "/home/ron/.nuget/packages/",
+        "outputPath": "/media/ron/StorageFiles/Projects/YT2SP/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/ron/.local/share/godot/mono/GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/ron/.nuget/NuGet/NuGet.Config",
+          "/home/ron/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "Google.Apis.Core": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.60.0.2945, )"
+            },
+            "SpotifyAPI.Web": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SpotifyAPI.Web.Auth": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
